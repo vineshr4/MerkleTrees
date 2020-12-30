@@ -1,0 +1,5 @@
+Mary Lou 54321 3 2 1 11/01/2020
+Ben Smith 47425 5 0 5 10/31/2020
+Steve Armstrong 29435 9 3 6 11/15/2020
+Sarah Lane 32452 8 3 5 9/10/2020
+Larry Baker 32561 3 3 0 9/5/2020
